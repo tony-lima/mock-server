@@ -1,4 +1,8 @@
 {
+    "login": {
+        "username": "admin@demo.com",
+        "password": "demo"
+    },
     "ratings": [
         {
             "id": 1,
