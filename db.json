@@ -174,7 +174,12 @@
             "name": "Eficiência",
             "id": 1259,
             "total": 367
-          }          
+          },
+          {
+            "name": "Bug",
+            "id": 1260,
+            "total": 654
+          }
         ]
       }
     ]
