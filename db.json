@@ -227,7 +227,7 @@
     "apps": [
       {
         "name": "Claro Residencial",
-        "subCategoriesOne": [
+        "subCategoriesTwo": [
           {
             "name": "Erro de login",
             "id": 1255,
