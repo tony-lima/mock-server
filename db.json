@@ -280,7 +280,7 @@
     "apps": [
       {
         "name": "com.claro.residencial",
-        "CategoryIndexReport": [
+        "categoryIndexReport": [
           {
             "date": "15/02/2023",
             "description": "Cadastro",
