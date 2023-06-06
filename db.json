@@ -275,5 +275,50 @@
     "10/2023": 234,
     "11/2023": 1454,
     "12/2023": 404
+  },
+  "monthlyCategoryIndex": {
+    "apps": [
+      {
+        "name": "com.claro.residencial",
+        "CategoryIndexReport": [
+          {
+            "date": "15/02/2023",
+            "description": "Cadastro",
+            "type": "Categoria 1",
+            "total": 432
+          },
+          {
+            "date": "17/03/2023",
+            "description": "Travamento",
+            "type": "Categoria 1",
+            "total": 300
+          },
+          {
+            "date": "18/03/2023",
+            "description": "Interface",
+            "type": "Categoria 2",
+            "total": 125
+          },
+          {
+            "date": "19/03/2023",
+            "description": "Login",
+            "type": "Categoria 3",
+            "total": 247
+          },
+          {
+            "date": "13/04/2023",
+            "description": "Outros",
+            "type": "Categoria 6",
+            "total": 190
+          },
+          {
+            "date": "14/04/2023",
+            "description": "Senha",
+            "type": "Categoria 5",
+            "total": 211
+          }
+        ]
+      }
+    ]
   }
 }
