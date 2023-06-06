@@ -283,39 +283,96 @@
         "categoryIndexReport": [
           {
             "date": "15/02/2023",
-            "description": "Cadastro",
-            "type": "Categoria 1",
-            "total": 432
+            "description": "Performance do app",
+            "type": "category",
+            "total": 321
           },
           {
+            "date": "15/02/2023",
+            "description": "Atendimento",
+            "type": "category",
+            "total": 243
+          },
+          {
+            "date": "15/02/2023",
+            "description": "Serviços",
+            "type": "category",
+            "total": 367
+          },
+          {
+            "date": "15/02/2023",
+            "description": "Acesso",
+            "type": "category",
+            "total": 123
+          },
+          {
+            "date": "15/02/2023",
+            "description": "Cobrança",
+            "type": "category",
+            "total": 231
+          },
+
+          {
             "date": "17/03/2023",
-            "description": "Travamento",
-            "type": "Categoria 1",
+            "description": "Performance do app",
+            "type": "category",
             "total": 300
           },
           {
             "date": "18/03/2023",
-            "description": "Interface",
-            "type": "Categoria 2",
+            "description": "Atendimento",
+            "type": "category",
             "total": 125
           },
           {
             "date": "19/03/2023",
-            "description": "Login",
-            "type": "Categoria 3",
+            "description": "Serviços",
+            "type": "category",
             "total": 247
           },
           {
+            "date": "19/03/2023",
+            "description": "Acesso",
+            "type": "category",
+            "total": 311
+          },
+          {
+            "date": "19/03/2023",
+            "description": "Cobrança",
+            "type": "category",
+            "total": 321
+          },
+
+
+          {
             "date": "13/04/2023",
-            "description": "Outros",
-            "type": "Categoria 6",
+            "description": "Performance do app",
+            "type": "category",
             "total": 190
           },
           {
             "date": "14/04/2023",
-            "description": "Senha",
-            "type": "Categoria 5",
+            "description": "Atendimento",
+            "type": "category",
             "total": 211
+          },
+          {
+            "date": "14/04/2023",
+            "description": "Serviços",
+            "type": "category",
+            "total": 123
+          },
+          {
+            "date": "14/04/2023",
+            "description": "Acesso",
+            "type": "category",
+            "total": 342
+          },
+          {
+            "date": "14/04/2023",
+            "description": "Cobrança",
+            "type": "category",
+            "total": 132
           }
         ]
       }
