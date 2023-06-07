@@ -281,6 +281,39 @@
       {
         "name": "com.claro.residencial",
         "categoryIndexReport": [
+          
+
+          {
+            "date": "13/04/2023",
+            "description": "Performance do app",
+            "type": "category",
+            "total": 190
+          },
+          {
+            "date": "14/04/2023",
+            "description": "Atendimento",
+            "type": "category",
+            "total": 211
+          },
+          {
+            "date": "14/04/2023",
+            "description": "Serviços",
+            "type": "category",
+            "total": 123
+          },
+          {
+            "date": "14/04/2023",
+            "description": "Acesso",
+            "type": "category",
+            "total": 342
+          },
+          {
+            "date": "14/04/2023",
+            "description": "Cobrança",
+            "type": "category",
+            "total": 132
+          },
+          
           {
             "date": "15/02/2023",
             "description": "Performance do app",
@@ -341,38 +374,6 @@
             "description": "Cobrança",
             "type": "category",
             "total": 321
-          },
-
-
-          {
-            "date": "13/04/2023",
-            "description": "Performance do app",
-            "type": "category",
-            "total": 190
-          },
-          {
-            "date": "14/04/2023",
-            "description": "Atendimento",
-            "type": "category",
-            "total": 211
-          },
-          {
-            "date": "14/04/2023",
-            "description": "Serviços",
-            "type": "category",
-            "total": 123
-          },
-          {
-            "date": "14/04/2023",
-            "description": "Acesso",
-            "type": "category",
-            "total": 342
-          },
-          {
-            "date": "14/04/2023",
-            "description": "Cobrança",
-            "type": "category",
-            "total": 132
           }
         ]
       }
