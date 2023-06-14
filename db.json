@@ -1088,6 +1088,7 @@
       {
         "name": "com.claro.residencial",
         "words": [
+          { "name": "Funcionamento", "total": 23 },
           { "name": "Aplicativo", "total": 432 },
           { "name": "Horrível", "total": 389 },
           { "name": "Bom", "total": 327 },
@@ -1099,8 +1100,7 @@
           { "name": "Lixo", "total": 100 },
           { "name": "Demora", "total": 69 },
           { "name": "Versão", "total": 53 },
-          { "name": "Atualização", "total": 30 },
-          { "name": "Funcionamento", "total": 23 }
+          { "name": "Atualização", "total": 30 }
         ]
       }
     ]
