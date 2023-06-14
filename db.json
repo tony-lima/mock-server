@@ -555,530 +555,552 @@
           {
             "text": "Essa aplicativo trava muito!",
             "user": {
-            "username": "user11",
-            "photo": ""
+              "username": "user11",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-06T19:28:11.653Z"
-            },
-            {
+          },
+          {
             "text": "Esta aplicação está sempre travando, péssima experiência!",
             "user": {
-            "username": "user12",
-            "photo": ""
+              "username": "user12",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-07T09:12:05.124Z"
-            },
-            {
+          },
+          {
             "text": "Não consigo usar esse app devido aos constantes travamentos.",
             "user": {
-            "username": "user13",
-            "photo": ""
+              "username": "user13",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-08T14:53:29.991Z"
-            },
-            {
+          },
+          {
             "text": "O aplicativo trava toda vez que tento usá-lo, é muito irritante!",
             "user": {
-            "username": "user14",
-            "photo": ""
+              "username": "user14",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-09T21:07:17.803Z"
-            },
-            {
+          },
+          {
             "text": "Esse app é uma decepção total, trava o tempo todo!",
             "user": {
-            "username": "user15",
-            "photo": ""
+              "username": "user15",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-10T11:45:50.512Z"
-            },
-            {
+          },
+          {
             "text": "Sério, esse app trava tanto que dá vontade de jogar o celular pela janela!",
             "user": {
-            "username": "user16",
-            "photo": ""
+              "username": "user16",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-11T18:29:08.019Z"
-            },
-            {
+          },
+          {
             "text": "Estou cansado dos travamentos desse aplicativo, não recomendo!",
             "user": {
-            "username": "user17",
-            "photo": ""
+              "username": "user17",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-12T09:16:32.490Z"
-            },
-            {
+          },
+          {
             "text": "Já perdi a conta de quantas vezes esse app travou, é insuportável!",
             "user": {
-            "username": "user18",
-            "photo": ""
+              "username": "user18",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-13T15:42:55.217Z"
-            },
-            {
+          },
+          {
             "text": "O app trava tanto que parece uma competição, mas definitivamente não é divertido.",
             "user": {
-            "username": "user19",
-            "photo": ""
+              "username": "user19",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-14T22:18:12.819Z"
-            },
-            {
+          },
+          {
             "text": "Não há paciência que aguente os constantes travamentos deste aplicativo.",
             "user": {
-            "username": "user20",
-            "photo": ""
+              "username": "user20",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-15T10:59:27.701Z"
-            },
-            {
+          },
+          {
             "text": "O travamento frequente desse app é um verdadeiro pesadelo, não recomendo a ninguém.",
             "user": {
-            "username": "user21",
-            "photo": ""
+              "username": "user21",
+              "photo": ""
             },
             "sentiment": {
-            "category": "Negativo",
-            "subcategory": "Frustração"
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
             "category": {
-            "category": "Aplicativo",
-            "subcategoryOne": "Travamento",
-            "subcategoryTwo": "Interface"
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
             "reviewDate": "2023-06-16T19:36:38.908Z"
+          },
+          {
+            "text": "Não consigo usar esse aplicativo devido aos constantes travamentos.",
+            "user": {
+              "username": "user22",
+              "photo": ""
             },
-            {
-              "text": "Não consigo usar esse aplicativo devido aos constantes travamentos.",
-              "user": {
-                "username": "user22",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-17T11:27:04.209Z"
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
-            {
-              "text": "O app trava tanto que já estou pensando em desinstalá-lo.",
-              "user": {
-                "username": "user23",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-18T16:39:50.518Z"
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
-            {
-              "text": "Essa aplicação é um desastre, trava em cada ação que tento realizar.",
-              "user": {
-                "username": "user24",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-19T20:12:32.817Z"
+            "reviewDate": "2023-06-17T11:27:04.209Z"
+          },
+          {
+            "text": "O app trava tanto que já estou pensando em desinstalá-lo.",
+            "user": {
+              "username": "user23",
+              "photo": ""
             },
-            {
-              "text": "Os travamentos desse app são um verdadeiro teste de paciência.",
-              "user": {
-                "username": "user25",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-20T08:05:14.423Z"
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
-            {
-              "text": "Não recomendo esse aplicativo devido aos frequentes travamentos.",
-              "user": {
-                "username": "user26",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-21T14:49:09.932Z"
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
-            {
-              "text": "Travamento constante torna esse app inutilizável.",
-              "user": {
-                "username": "user27",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-22T19:57:40.621Z"
+            "reviewDate": "2023-06-18T16:39:50.518Z"
+          },
+          {
+            "text": "Essa aplicação é um desastre, trava em cada ação que tento realizar.",
+            "user": {
+              "username": "user24",
+              "photo": ""
             },
-            {
-              "text": "Esse app trava tanto que parece que nunca foi testado.",
-              "user": {
-                "username": "user28",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-23T10:22:33.312Z"
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
-            {
-              "text": "Já estou cansado dos travamentos frequentes desse aplicativo.",
-              "user": {
-                "username": "user29",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-24T16:18:02.905Z"
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
-            {
-              "text": "Não recomendo esse app, pois trava demais e atrapalha a experiência do usuário.",
-              "user": {
-                "username": "user30",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-25T21:06:12.505Z"
+            "reviewDate": "2023-06-19T20:12:32.817Z"
+          },
+          {
+            "text": "Os travamentos desse app são um verdadeiro teste de paciência.",
+            "user": {
+              "username": "user25",
+              "photo": ""
             },
-            {
-              "text": "Estou extremamente insatisfeito com os travamentos desse aplicativo.",
-              "user": {
-                "username": "user31",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-26T09:44:51.113Z"
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
-            {
-              "text": "Esse app trava tanto que é impossível usá-lo sem frustração.",
-              "user": {
-                "username": "user32",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-27T16:52:19.823Z"
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
-            {
-              "text": "O aplicativo trava constantemente, não recomendo perder tempo com ele.",
-              "user": {
-                "username": "user33",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-28T09:10:06.421Z"
+            "reviewDate": "2023-06-20T08:05:14.423Z"
+          },
+          {
+            "text": "Não recomendo esse aplicativo devido aos frequentes travamentos.",
+            "user": {
+              "username": "user26",
+              "photo": ""
             },
-            {
-              "text": "Travamentos frequentes tornam esse app uma péssima escolha.",
-              "user": {
-                "username": "user34",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-29T20:38:31.516Z"
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
-            {
-              "text": "Não aguento mais os travamentos desse app, preciso encontrar uma alternativa.",
-              "user": {
-                "username": "user35",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-06-30T12:27:55.112Z"
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
-            {
-              "text": "Travamentos constantes destroem a usabilidade desse aplicativo.",
-              "user": {
-                "username": "user36",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-07-01T18:09:41.209Z"
+            "reviewDate": "2023-06-21T14:49:09.932Z"
+          },
+          {
+            "text": "Travamento constante torna esse app inutilizável.",
+            "user": {
+              "username": "user27",
+              "photo": ""
             },
-            {
-              "text": "O app trava tanto que nem consigo finalizar uma tarefa.",
-              "user": {
-                "username": "user37",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-07-02T08:36:25.807Z"
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
-            {
-              "text": "Evite esse aplicativo, pois os travamentos são constantes e irritantes.",
-              "user": {
-                "username": "user38",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-07-03T15:24:17.402Z"
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
             },
-            {
-              "text": "Os travamentos desse app estão me deixando louco!",
-              "user": {
-                "username": "user39",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-07-04T22:45:59.915Z"
+            "reviewDate": "2023-06-22T19:57:40.621Z"
+          },
+          {
+            "text": "Esse app trava tanto que parece que nunca foi testado.",
+            "user": {
+              "username": "user28",
+              "photo": ""
             },
-            {
-              "text": "Esse aplicativo trava tanto que me faz querer jogar o celular pela janela.",
-              "user": {
-                "username": "user40",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-07-05T11:58:42.523Z"
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
             },
-            {
-              "text": "Não suporto mais os travamentos constantes desse app!",
-              "user": {
-                "username": "user41",
-                "photo": ""
-              },
-              "sentiment": {
-                "category": "Negativo",
-                "subcategory": "Frustração"
-              },
-              "category": {
-                "category": "Aplicativo",
-                "subcategoryOne": "Travamento",
-                "subcategoryTwo": "Interface"
-              },
-              "reviewDate": "2023-07-06T17:33:38.120Z"
-            }
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-06-23T10:22:33.312Z"
+          },
+          {
+            "text": "Já estou cansado dos travamentos frequentes desse aplicativo.",
+            "user": {
+              "username": "user29",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-06-24T16:18:02.905Z"
+          },
+          {
+            "text": "Não recomendo esse app, pois trava demais e atrapalha a experiência do usuário.",
+            "user": {
+              "username": "user30",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-06-25T21:06:12.505Z"
+          },
+          {
+            "text": "Estou extremamente insatisfeito com os travamentos desse aplicativo.",
+            "user": {
+              "username": "user31",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-06-26T09:44:51.113Z"
+          },
+          {
+            "text": "Esse app trava tanto que é impossível usá-lo sem frustração.",
+            "user": {
+              "username": "user32",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-06-27T16:52:19.823Z"
+          },
+          {
+            "text": "O aplicativo trava constantemente, não recomendo perder tempo com ele.",
+            "user": {
+              "username": "user33",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-06-28T09:10:06.421Z"
+          },
+          {
+            "text": "Travamentos frequentes tornam esse app uma péssima escolha.",
+            "user": {
+              "username": "user34",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-06-29T20:38:31.516Z"
+          },
+          {
+            "text": "Não aguento mais os travamentos desse app, preciso encontrar uma alternativa.",
+            "user": {
+              "username": "user35",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-06-30T12:27:55.112Z"
+          },
+          {
+            "text": "Travamentos constantes destroem a usabilidade desse aplicativo.",
+            "user": {
+              "username": "user36",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-07-01T18:09:41.209Z"
+          },
+          {
+            "text": "O app trava tanto que nem consigo finalizar uma tarefa.",
+            "user": {
+              "username": "user37",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-07-02T08:36:25.807Z"
+          },
+          {
+            "text": "Evite esse aplicativo, pois os travamentos são constantes e irritantes.",
+            "user": {
+              "username": "user38",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-07-03T15:24:17.402Z"
+          },
+          {
+            "text": "Os travamentos desse app estão me deixando louco!",
+            "user": {
+              "username": "user39",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-07-04T22:45:59.915Z"
+          },
+          {
+            "text": "Esse aplicativo trava tanto que me faz querer jogar o celular pela janela.",
+            "user": {
+              "username": "user40",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-07-05T11:58:42.523Z"
+          },
+          {
+            "text": "Não suporto mais os travamentos constantes desse app!",
+            "user": {
+              "username": "user41",
+              "photo": ""
+            },
+            "sentiment": {
+              "category": "Negativo",
+              "subcategory": "Frustração"
+            },
+            "category": {
+              "category": "Aplicativo",
+              "subcategoryOne": "Travamento",
+              "subcategoryTwo": "Interface"
+            },
+            "reviewDate": "2023-07-06T17:33:38.120Z"
+          }
+        ]
+      }
+    ]
+  },
+  "keyWords": {
+    "apps": [
+      {
+        "name": "com.claro.residencial",
+        "words": [
+          { "name": "Aplicativo", "total": 432 },
+          { "name": "Horrível", "total": 389 },
+          { "name": "Bom", "total": 327 },
+          { "name": "Travamento", "total": 259 },
+          { "name": "Interface", "total": 230 },
+          { "name": "Lento", "total": 209 },
+          { "name": "Ruim", "total": 181 },
+          { "name": "Péssimo", "total": 150 },
+          { "name": "Lixo", "total": 100 },
+          { "name": "Demora", "total": 69 },
+          { "name": "Versão", "total": 53 },
+          { "name": "Atualização", "total": 30 },
+          { "name": "Funcionamento", "total": 23 }
         ]
       }
     ]
