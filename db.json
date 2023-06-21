@@ -1104,5 +1104,32 @@
         ]
       }
     ]
+  },
+  "totalReviews": {
+    "apps": [
+      {
+        "name": "com.claro.residencial",
+        "reportReview": [
+          {
+            "date": "02/2023",
+            "description": "Travamento",
+            "type": "subcategoria 1 | subcategoria 2",
+            "total": 300
+          },
+          {
+            "date": "03/2023",
+            "description": "Interface",
+            "type": "Categoria 1",
+            "total": 125
+          },
+          {
+            "date": "04/2023",
+            "description": "Funcionamento",
+            "type": "Categoria 2",
+            "total": 190
+          }
+        ]
+      }
+    ]
   }
 }
