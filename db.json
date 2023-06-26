@@ -1165,18 +1165,6 @@
             "total": 150
           },
           {
-            "date": "17/03/2023",
-            "description": "Teste",
-            "type": "category",
-            "total": 125
-          },
-          {
-            "date": "21/03/2023",
-            "description": "Implementação",
-            "type": "category",
-            "total": 200
-          },
-          {
             "date": "26/03/2023",
             "description": "Funcionamento",
             "type": "category",
@@ -1197,6 +1185,12 @@
           {
             "date": "09/04/2023",
             "description": "Instalação",
+            "type": "category",
+            "total": 80
+          },
+          {
+            "date": "10/04/2023",
+            "description": "Travamento",
             "type": "category",
             "total": 80
           },
@@ -1229,18 +1223,6 @@
             "description": "Interface",
             "type": "category",
             "total": 90
-          },
-          {
-            "date": "26/04/2023",
-            "description": "Teste",
-            "type": "subcategoryTwo",
-            "total": 150
-          },
-          {
-            "date": "28/04/2023",
-            "description": "Implementação",
-            "type": "category",
-            "total": 200
           },
           {
             "date": "30/04/2023",
