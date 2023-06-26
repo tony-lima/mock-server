@@ -1113,139 +1113,139 @@
           {
             "date": "05/02/2023",
             "description": "Manutenção",
-            "type": "subcategoria 1",
+            "type": "subcategoryOne",
             "total": 150
           },
           {
             "date": "07/02/2023",
             "description": "Atualização",
-            "type": "subcategoria 2",
+            "type": "subcategoryTwo",
             "total": 200
           },
           {
             "date": "12/02/2023",
             "description": "Instalação",
-            "type": "Categoria 2",
+            "type": "category",
             "total": 80
           },
           {
             "date": "17/02/2023",
             "description": "Travamento",
-            "type": "subcategoria 1",
+            "type": "subcategoryOne",
             "total": 300
           },
           {
             "date": "18/02/2023",
             "description": "Conserto",
-            "type": "subcategoria 2",
+            "type": "subcategoryTwo",
             "total": 270
           },
           {
             "date": "22/02/2023",
             "description": "Design",
-            "type": "Categoria 3",
+            "type": "category",
             "total": 180
           },
           {
             "date": "04/03/2023",
             "description": "Configuração",
-            "type": "subcategoria 2",
+            "type": "subcategoryTwo",
             "total": 120
           },
           {
             "date": "09/03/2023",
-            "description": "Atualização",
-            "type": "Categoria 1",
+            "description": "Melhoria",
+            "type": "category",
             "total": 90
           },
           {
             "date": "14/03/2023",
-            "description": "Melhoria",
-            "type": "subcategoria 2",
+            "description": "Interface",
+            "type": "subcategoryTwo",
             "total": 150
           },
           {
             "date": "17/03/2023",
-            "description": "Interface",
-            "type": "Categoria 1",
+            "description": "Teste",
+            "type": "category",
             "total": 125
           },
           {
             "date": "21/03/2023",
-            "description": "Teste",
-            "type": "Categoria 2",
+            "description": "Implementação",
+            "type": "category",
             "total": 200
           },
           {
             "date": "26/03/2023",
-            "description": "Implementação",
-            "type": "Categoria 3",
+            "description": "Funcionamento",
+            "type": "category",
             "total": 300
           },
           {
             "date": "02/04/2023",
             "description": "Manutenção",
-            "type": "subcategoria 1",
+            "type": "subcategoryOne",
             "total": 150
           },
           {
             "date": "05/04/2023",
             "description": "Atualização",
-            "type": "subcategoria 2",
+            "type": "subcategoryTwo",
             "total": 200
           },
           {
             "date": "09/04/2023",
             "description": "Instalação",
-            "type": "Categoria 2",
+            "type": "category",
             "total": 80
           },
           {
             "date": "12/04/2023",
             "description": "Conserto",
-            "type": "subcategoria 1",
+            "type": "subcategoryOne",
             "total": 270
           },
           {
             "date": "16/04/2023",
             "description": "Design",
-            "type": "Categoria 3",
+            "type": "category",
             "total": 180
           },
           {
             "date": "17/04/2023",
-            "description": "Funcionamento",
-            "type": "Categoria 2",
+            "description": "Configuração",
+            "type": "category",
             "total": 190
           },
           {
             "date": "19/04/2023",
-            "description": "Configuração",
-            "type": "subcategoria 2",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
             "total": 120
           },
           {
             "date": "23/04/2023",
-            "description": "Atualização",
-            "type": "Categoria 1",
+            "description": "Interface",
+            "type": "category",
             "total": 90
           },
           {
             "date": "26/04/2023",
-            "description": "Melhoria",
-            "type": "subcategoria 2",
+            "description": "Teste",
+            "type": "subcategoryTwo",
             "total": 150
           },
           {
             "date": "28/04/2023",
-            "description": "Teste",
-            "type": "Categoria 2",
+            "description": "Implementação",
+            "type": "category",
             "total": 200
           },
           {
             "date": "30/04/2023",
-            "description": "Implementação",
-            "type": "Categoria 3",
+            "description": "Funcionamento",
+            "type": "category",
             "total": 300
           }
         ]
