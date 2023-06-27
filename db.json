@@ -1667,6 +1667,546 @@
             "description": "Funcionamento",
             "type": "subcategoryTwo",
             "total": 444
+          },
+          {
+            "date": "05/06/2023",
+            "description": "Manutenção",
+            "type": "subcategoryTwo",
+            "total": 100
+          },
+          {
+            "date": "05/06/2023",
+            "description": "Atualização",
+            "type": "subcategoryTwo",
+            "total": 321
+          },
+          {
+            "date": "09/06/2023",
+            "description": "Instalação",
+            "type": "subcategoryTwo",
+            "total": 211
+          },
+          {
+            "date": "10/06/2023",
+            "description": "Travamento",
+            "type": "subcategoryTwo",
+            "total": 122
+          },
+          {
+            "date": "12/06/2023",
+            "description": "Conserto",
+            "type": "subcategoryTwo",
+            "total": 333
+          },
+          {
+            "date": "16/06/2023",
+            "description": "Design",
+            "type": "subcategoryTwo",
+            "total": 444
+          },
+          {
+            "date": "17/06/2023",
+            "description": "Configuração",
+            "type": "subcategoryTwo",
+            "total": 555
+          },
+          {
+            "date": "19/06/2023",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
+            "total": 666
+          },
+          {
+            "date": "23/06/2023",
+            "description": "Interface",
+            "type": "subcategoryTwo",
+            "total": 777
+          },
+          {
+            "date": "30/06/2023",
+            "description": "Funcionamento",
+            "type": "subcategoryTwo",
+            "total": 234
+          },
+          {
+            "date": "05/07/2023",
+            "description": "Manutenção",
+            "type": "subcategoryTwo",
+            "total": 500
+          },
+          {
+            "date": "07/07/2023",
+            "description": "Atualização",
+            "type": "subcategoryTwo",
+            "total": 654
+          },
+          {
+            "date": "12/07/2023",
+            "description": "Instalação",
+            "type": "subcategoryTwo",
+            "total": 432
+          },
+          {
+            "date": "17/07/2023",
+            "description": "Travamento",
+            "type": "subcategoryTwo",
+            "total": 210
+          },
+          {
+            "date": "18/07/2023",
+            "description": "Conserto",
+            "type": "subcategoryTwo",
+            "total": 245
+          },
+          {
+            "date": "22/07/2023",
+            "description": "Design",
+            "type": "subcategoryTwo",
+            "total": 766
+          },
+          {
+            "date": "07/07/2023",
+            "description": "Configuração",
+            "type": "subcategoryTwo",
+            "total": 764
+          },
+          {
+            "date": "09/07/2023",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
+            "total": 623
+          },
+          {
+            "date": "14/07/2023",
+            "description": "Interface",
+            "type": "subcategoryTwo",
+            "total": 366
+          },
+          {
+            "date": "26/07/2023",
+            "description": "Funcionamento",
+            "type": "subcategoryTwo",
+            "total": 400
+          },
+          {
+            "date": "05/08/2023",
+            "description": "Manutenção",
+            "type": "subcategoryTwo",
+            "total": 123
+          },
+          {
+            "date": "07/08/2023",
+            "description": "Atualização",
+            "type": "subcategoryTwo",
+            "total": 432
+          },
+          {
+            "date": "12/08/2023",
+            "description": "Instalação",
+            "type": "subcategoryTwo",
+            "total": 542
+          },
+          {
+            "date": "17/08/2023",
+            "description": "Travamento",
+            "type": "subcategoryTwo",
+            "total": 524
+          },
+          {
+            "date": "18/08/2023",
+            "description": "Conserto",
+            "type": "subcategoryTwo",
+            "total": 123
+          },
+          {
+            "date": "22/08/2023",
+            "description": "Design",
+            "type": "subcategoryTwo",
+            "total": 544
+          },
+          {
+            "date": "04/08/2023",
+            "description": "Configuração",
+            "type": "subcategoryTwo",
+            "total": 111
+          },
+          {
+            "date": "09/08/2023",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
+            "total": 222
+          },
+          {
+            "date": "14/08/2023",
+            "description": "Interface",
+            "type": "subcategoryTwo",
+            "total": 333
+          },
+          {
+            "date": "26/08/2023",
+            "description": "Funcionamento",
+            "type": "subcategoryTwo",
+            "total": 444
+          },
+          {
+            "date": "05/09/2023",
+            "description": "Manutenção",
+            "type": "subcategoryTwo",
+            "total": 100
+          },
+          {
+            "date": "05/09/2023",
+            "description": "Atualização",
+            "type": "subcategoryTwo",
+            "total": 321
+          },
+          {
+            "date": "09/09/2023",
+            "description": "Instalação",
+            "type": "subcategoryTwo",
+            "total": 211
+          },
+          {
+            "date": "10/09/2023",
+            "description": "Travamento",
+            "type": "subcategoryTwo",
+            "total": 122
+          },
+          {
+            "date": "12/09/2023",
+            "description": "Conserto",
+            "type": "subcategoryTwo",
+            "total": 333
+          },
+          {
+            "date": "16/09/2023",
+            "description": "Design",
+            "type": "subcategoryTwo",
+            "total": 444
+          },
+          {
+            "date": "17/09/2023",
+            "description": "Configuração",
+            "type": "subcategoryTwo",
+            "total": 555
+          },
+          {
+            "date": "19/09/2023",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
+            "total": 666
+          },
+          {
+            "date": "23/09/2023",
+            "description": "Interface",
+            "type": "subcategoryTwo",
+            "total": 777
+          },
+          {
+            "date": "30/09/2023",
+            "description": "Funcionamento",
+            "type": "subcategoryTwo",
+            "total": 234
+          },
+          {
+            "date": "05/10/2023",
+            "description": "Manutenção",
+            "type": "subcategoryTwo",
+            "total": 500
+          },
+          {
+            "date": "07/10/2023",
+            "description": "Atualização",
+            "type": "subcategoryTwo",
+            "total": 654
+          },
+          {
+            "date": "12/10/2023",
+            "description": "Instalação",
+            "type": "subcategoryTwo",
+            "total": 432
+          },
+          {
+            "date": "17/10/2023",
+            "description": "Travamento",
+            "type": "subcategoryTwo",
+            "total": 210
+          },
+          {
+            "date": "18/10/2023",
+            "description": "Conserto",
+            "type": "subcategoryTwo",
+            "total": 245
+          },
+          {
+            "date": "22/10/2023",
+            "description": "Design",
+            "type": "subcategoryTwo",
+            "total": 766
+          },
+          {
+            "date": "10/10/2023",
+            "description": "Configuração",
+            "type": "subcategoryTwo",
+            "total": 764
+          },
+          {
+            "date": "09/10/2023",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
+            "total": 623
+          },
+          {
+            "date": "14/10/2023",
+            "description": "Interface",
+            "type": "subcategoryTwo",
+            "total": 366
+          },
+          {
+            "date": "26/10/2023",
+            "description": "Funcionamento",
+            "type": "subcategoryTwo",
+            "total": 400
+          },
+          {
+            "date": "05/11/2023",
+            "description": "Manutenção",
+            "type": "subcategoryTwo",
+            "total": 123
+          },
+          {
+            "date": "07/11/2023",
+            "description": "Atualização",
+            "type": "subcategoryTwo",
+            "total": 432
+          },
+          {
+            "date": "12/11/2023",
+            "description": "Instalação",
+            "type": "subcategoryTwo",
+            "total": 542
+          },
+          {
+            "date": "17/11/2023",
+            "description": "Travamento",
+            "type": "subcategoryTwo",
+            "total": 524
+          },
+          {
+            "date": "18/11/2023",
+            "description": "Conserto",
+            "type": "subcategoryTwo",
+            "total": 123
+          },
+          {
+            "date": "22/11/2023",
+            "description": "Design",
+            "type": "subcategoryTwo",
+            "total": 544
+          },
+          {
+            "date": "04/11/2023",
+            "description": "Configuração",
+            "type": "subcategoryTwo",
+            "total": 111
+          },
+          {
+            "date": "09/11/2023",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
+            "total": 222
+          },
+          {
+            "date": "14/11/2023",
+            "description": "Interface",
+            "type": "subcategoryTwo",
+            "total": 333
+          },
+          {
+            "date": "26/11/2023",
+            "description": "Funcionamento",
+            "type": "subcategoryTwo",
+            "total": 444
+          },
+          {
+            "date": "09/12/2023",
+            "description": "Manutenção",
+            "type": "subcategoryTwo",
+            "total": 100
+          },
+          {
+            "date": "11/12/2023",
+            "description": "Atualização",
+            "type": "subcategoryTwo",
+            "total": 321
+          },
+          {
+            "date": "09/12/2023",
+            "description": "Instalação",
+            "type": "subcategoryTwo",
+            "total": 211
+          },
+          {
+            "date": "10/12/2023",
+            "description": "Travamento",
+            "type": "subcategoryTwo",
+            "total": 122
+          },
+          {
+            "date": "12/12/2023",
+            "description": "Conserto",
+            "type": "subcategoryTwo",
+            "total": 333
+          },
+          {
+            "date": "16/12/2023",
+            "description": "Design",
+            "type": "subcategoryTwo",
+            "total": 444
+          },
+          {
+            "date": "17/12/2023",
+            "description": "Configuração",
+            "type": "subcategoryTwo",
+            "total": 555
+          },
+          {
+            "date": "19/12/2023",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
+            "total": 666
+          },
+          {
+            "date": "23/12/2023",
+            "description": "Interface",
+            "type": "subcategoryTwo",
+            "total": 777
+          },
+          {
+            "date": "30/12/2023",
+            "description": "Funcionamento",
+            "type": "subcategoryTwo",
+            "total": 234
+          },
+          {
+            "date": "05/01/2024",
+            "description": "Manutenção",
+            "type": "subcategoryTwo",
+            "total": 500
+          },
+          {
+            "date": "07/01/2024",
+            "description": "Atualização",
+            "type": "subcategoryTwo",
+            "total": 654
+          },
+          {
+            "date": "12/01/2024",
+            "description": "Instalação",
+            "type": "subcategoryTwo",
+            "total": 432
+          },
+          {
+            "date": "17/01/2024",
+            "description": "Travamento",
+            "type": "subcategoryTwo",
+            "total": 210
+          },
+          {
+            "date": "18/01/2024",
+            "description": "Conserto",
+            "type": "subcategoryTwo",
+            "total": 245
+          },
+          {
+            "date": "22/01/2024",
+            "description": "Design",
+            "type": "subcategoryTwo",
+            "total": 766
+          },
+          {
+            "date": "07/01/2024",
+            "description": "Configuração",
+            "type": "subcategoryTwo",
+            "total": 764
+          },
+          {
+            "date": "09/01/2024",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
+            "total": 623
+          },
+          {
+            "date": "14/01/2024",
+            "description": "Interface",
+            "type": "subcategoryTwo",
+            "total": 366
+          },
+          {
+            "date": "26/01/2024",
+            "description": "Funcionamento",
+            "type": "subcategoryTwo",
+            "total": 400
+          },
+          {
+            "date": "05/02/2024",
+            "description": "Manutenção",
+            "type": "subcategoryTwo",
+            "total": 123
+          },
+          {
+            "date": "07/02/2024",
+            "description": "Atualização",
+            "type": "subcategoryTwo",
+            "total": 432
+          },
+          {
+            "date": "12/02/2024",
+            "description": "Instalação",
+            "type": "subcategoryTwo",
+            "total": 542
+          },
+          {
+            "date": "17/02/2024",
+            "description": "Travamento",
+            "type": "subcategoryTwo",
+            "total": 524
+          },
+          {
+            "date": "18/02/2024",
+            "description": "Conserto",
+            "type": "subcategoryTwo",
+            "total": 123
+          },
+          {
+            "date": "22/02/2024",
+            "description": "Design",
+            "type": "subcategoryTwo",
+            "total": 544
+          },
+          {
+            "date": "04/02/2024",
+            "description": "Configuração",
+            "type": "subcategoryTwo",
+            "total": 111
+          },
+          {
+            "date": "09/02/2024",
+            "description": "Melhoria",
+            "type": "subcategoryTwo",
+            "total": 222
+          },
+          {
+            "date": "14/02/2024",
+            "description": "Interface",
+            "type": "subcategoryTwo",
+            "total": 333
+          },
+          {
+            "date": "26/02/2024",
+            "description": "Funcionamento",
+            "type": "subcategoryTwo",
+            "total": 444
           }
         ]
       }
