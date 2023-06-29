@@ -2211,5 +2211,239 @@
         ]
       }
     ]
+  },
+  "sentimentIndex": {
+    "apps": [
+      {
+        "name": "com.claro.residencial",
+        "sentimentIndex": [
+          {
+            "period": "01/03/2023",
+            "primarySentiment": {
+              "name": "Positivo",
+              "total": 432,
+              "secondarySentiment": [
+                {
+                  "name": "Feliz",
+                  "total": 193
+                },
+                {
+                  "name": "Alegre",
+                  "total": 30
+                },
+                {
+                  "name": "Satisfeito",
+                  "total": 120
+                },
+                {
+                  "name": "Gratidão",
+                  "total": 47
+                }
+              ]
+            }
+          },
+          {
+            "period": "01/03/2023",
+            "primarySentiment": {
+              "name": "Negativo",
+              "total": 788,
+              "secondarySentiment": [
+                {
+                  "name": "Triste",
+                  "total": 43
+                },
+                {
+                  "name": "Chateado",
+                  "total": 201
+                },
+                {
+                  "name": "Insatisfeito",
+                  "total": 512
+                },
+                {
+                  "name": "Desapontado",
+                  "total": 32
+                }
+              ]
+            }
+          },
+          {
+            "period": "01/03/2023",
+            "primarySentiment": {
+              "name": "Neutro",
+              "total": 879,
+              "secondarySentiment": [
+                {
+                  "name": "Neutro",
+                  "total": 56
+                },
+                {
+                  "name": "Indiferente",
+                  "total": 666
+                },
+                {
+                  "name": "Sem opinião",
+                  "total": 120
+                },
+                {
+                  "name": "Sem sentimento",
+                  "total": 37
+                }
+              ]
+            }
+          },
+          {
+            "period": "01/04/2023",
+            "primarySentiment": {
+              "name": "Positivo",
+              "total": 520,
+              "secondarySentiment": [
+                {
+                  "name": "Feliz",
+                  "total": 193
+                },
+                {
+                  "name": "Alegre",
+                  "total": 30
+                },
+                {
+                  "name": "Satisfeito",
+                  "total": 120
+                },
+                {
+                  "name": "Gratidão",
+                  "total": 47
+                }
+              ]
+            }
+          },
+          {
+            "period": "01/04/2023",
+            "primarySentiment": {
+              "name": "Negativo",
+              "total": 711,
+              "secondarySentiment": [
+                {
+                  "name": "Triste",
+                  "total": 193
+                },
+                {
+                  "name": "Chateado",
+                  "total": 30
+                },
+                {
+                  "name": "Insatisfeito",
+                  "total": 120
+                },
+                {
+                  "name": "Desapontado",
+                  "total": 47
+                }
+              ]
+            }
+          },
+          {
+            "period": "01/04/2023",
+            "primarySentiment": {
+              "name": "Neutro",
+              "total": 801,
+              "secondarySentiment": [
+                {
+                  "name": "Neutro",
+                  "total": 193
+                },
+                {
+                  "name": "Indiferente",
+                  "total": 30
+                },
+                {
+                  "name": "Sem opinião",
+                  "total": 120
+                },
+                {
+                  "name": "Sem sentimento",
+                  "total": 47
+                }
+              ]
+            }
+          },
+          {
+            "period": "01/05/2023",
+            "primarySentiment": {
+              "name": "Positivo",
+              "total": 420,
+              "secondarySentiment": [
+                {
+                  "name": "Feliz",
+                  "total": 193
+                },
+                {
+                  "name": "Alegre",
+                  "total": 30
+                },
+                {
+                  "name": "Satisfeito",
+                  "total": 120
+                },
+                {
+                  "name": "Gratidão",
+                  "total": 47
+                }
+              ]
+            }
+          },
+          {
+            "period": "01/05/2023",
+            "primarySentiment": {
+              "name": "Negativo",
+              "total": 555,
+              "secondarySentiment": [
+                {
+                  "name": "Triste",
+                  "total": 193
+                },
+                {
+                  "name": "Chateado",
+                  "total": 30
+                },
+                {
+                  "name": "Insatisfeito",
+                  "total": 120
+                },
+                {
+                  "name": "Desapontado",
+                  "total": 47
+                }
+              ]
+            }
+          },
+          {
+            "period": "01/05/2023",
+            "primarySentiment": {
+              "name": "Neutro",
+              "total": 777,
+              "secondarySentiment": [
+                {
+                  "name": "Neutro",
+                  "total": 193
+                },
+                {
+                  "name": "Indiferente",
+                  "total": 30
+                },
+                {
+                  "name": "Sem opinião",
+                  "total": 120
+                },
+                {
+                  "name": "Sem sentimento",
+                  "total": 47
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
   }
 }
