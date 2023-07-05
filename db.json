@@ -2445,5 +2445,49 @@
         ]
       }
     ]
+  },
+  "versionVolumetry": {
+    "apps": [
+      {
+        "name": "com.claro.residencial",
+        "versionVolumetry": [
+          {
+            "period": "10/06/2023",
+            "versions": {
+              "description": "1.0.3",
+              "total": 109
+            }
+          },
+          {
+            "period": "04/05/2023",
+            "versions": {
+              "description": "1.0.4",
+              "total": 142
+            }
+          },
+          {
+            "period": "10/06/2023",
+            "versions": {
+              "description": "1.0.5",
+              "total": 182
+            }
+          },
+          {
+            "period": "05/07/2023",
+            "versions": {
+              "description": "1.1.0",
+              "total": 87
+            }
+          },
+          {
+            "period": "20/08/2023",
+            "versions": {
+              "description": "1.1.1",
+              "total": 95
+            }
+          }
+        ]
+      }
+    ]
   }
 }
