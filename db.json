@@ -2525,14 +2525,14 @@
             "period": "10/06/2023",
             "versions": {
               "description": "1.0.3",
-              "total": 2
+              "total": 40
             }
           },
           {
             "period": "11/06/2023",
             "versions": {
               "description": "1.0.4",
-              "total": 20
+              "total": 120
             }
           },
           {
