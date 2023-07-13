@@ -2568,9 +2568,9 @@
           {
             "period": "02/2023",
             "total": 2651,
-            "increased": 800,
-            "increasedAfterAnswer": 1300,
-            "decreased": 1200,
+            "increased": 809,
+            "increasedAfterAnswer": 1381,
+            "decreased": 1211,
             "decreasedAfterAnswer": 651,
             "stable": 150,
             "stableAfterAnswer": 150
@@ -2591,7 +2591,7 @@
             "increased": 888,
             "increasedAfterAnswer": 1254,
             "decreased": 1999,
-            "decreasedAfterAnswer": 780,
+            "decreasedAfterAnswer": 782,
             "stable": 199,
             "stableAfterAnswer": 209
           }
