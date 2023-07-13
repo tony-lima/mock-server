@@ -2561,22 +2561,20 @@
     ]
   },
   "reviewVariation": {
-    "reviewVariation": {
-      "apps": [
-        {
-          "name": "com.claro.residencial",
-          "reviewVariation": {
-            "period": "02/2023",
-            "total": 2651,
-            "increased": 800,
-            "decreased": 1200,
-            "stable": 150,
-            "stableAfterAnswer": 150,
-            "increasedAfterAnswer": 300,
-            "decreasedAfterAnswer": 51
-          }
+    "apps": [
+      {
+        "name": "com.claro.residencial",
+        "reviewVariation": {
+          "period": "02/2023",
+          "total": 2651,
+          "increased": 800,
+          "decreased": 1200,
+          "stable": 150,
+          "stableAfterAnswer": 150,
+          "increasedAfterAnswer": 300,
+          "decreasedAfterAnswer": 51
         }
-      ]
-    }
+      }
+    ]
   }
 }
