@@ -2569,31 +2569,31 @@
             "period": "02/2023",
             "total": 2651,
             "increased": 800,
+            "increasedAfterAnswer": 1300,
             "decreased": 1200,
+            "decreasedAfterAnswer": 651,
             "stable": 150,
-            "stableAfterAnswer": 150,
-            "increasedAfterAnswer": 300,
-            "decreasedAfterAnswer": 51
+            "stableAfterAnswer": 150
           },
           {
             "period": "03/2023",
             "total": 3454,
             "increased": 911,
+            "increasedAfterAnswer": 1201,
             "decreased": 1099,
+            "decreasedAfterAnswer": 888,
             "stable": 877,
-            "stableAfterAnswer": 278,
-            "increasedAfterAnswer": 201,
-            "decreasedAfterAnswer": 88
+            "stableAfterAnswer": 278
           },
           {
             "period": "04/2023",
             "total": 3629,
             "increased": 888,
+            "increasedAfterAnswer": 1254,
             "decreased": 1999,
+            "decreasedAfterAnswer": 780,
             "stable": 199,
-            "stableAfterAnswer": 209,
-            "increasedAfterAnswer": 254,
-            "decreasedAfterAnswer": 80
+            "stableAfterAnswer": 209
           }
         ]
       }
