@@ -2586,6 +2586,16 @@
             "stableAfterAnswer": 278
           },
           {
+            "period": "05/2023",
+            "total": 7639,
+            "increased": 1082,
+            "increasedAfterAnswer": 2311,
+            "decreased": 2444,
+            "decreasedAfterAnswer": 908,
+            "stable": 553,
+            "stableAfterAnswer": 341
+          },
+          {
             "period": "04/2023",
             "total": 3629,
             "increased": 888,
